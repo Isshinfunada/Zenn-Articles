@@ -7,6 +7,7 @@ topics:
   - Rust
   - WasabiOS
   - クロスコンパイル
+  - 技術書
 published: false
 ---
 # 今日やったこと
