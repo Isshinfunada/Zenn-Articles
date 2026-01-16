@@ -1,12 +1,12 @@
 ---
-title: "「作って学ぶブラウザのしくみ」学習記録：開発環境構築とWasabiOS入門"
-type: "tech"
-emoji: "🌐"
+title: 「作って学ぶブラウザのしくみ」学習記録：開発環境構築とWasabiOS入門
+type: tech
+emoji: 🌐
 topics:
-  - "ブラウザ"
-  - "Rust"
-  - "WasabiOS"
-  - "クロスコンパイル"
+  - ブラウザ
+  - Rust
+  - WasabiOS
+  - クロスコンパイル
 published: false
 ---
 # 今日やったこと
