@@ -8,7 +8,7 @@ topics:
   - WasabiOS
   - クロスコンパイル
   - 技術書
-published: false
+published: true
 ---
 # 今日やったこと
 
