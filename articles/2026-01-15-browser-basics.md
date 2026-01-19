@@ -7,7 +7,7 @@ topics:
   - "Rust"
   - "URL"
   - "技術書"
-published: false
+published: true
 ---
 # 今日やったこと
 
