@@ -1,5 +1,5 @@
 ---
-title: "作って学ぶブラウザのしくみ：URLの構文解析とRustの基礎"
+title: "「作って学ぶブラウザのしくみ」学習記録：URLの構文解析とRustの基礎"
 type: "tech"
 emoji: "🌐"
 topics:
