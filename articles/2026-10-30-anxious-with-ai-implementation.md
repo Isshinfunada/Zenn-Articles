@@ -8,7 +8,7 @@ topics:
   - "品質保証"
   - "ソフトウェア設計"
   - "テスト"
-published: false
+published: true
 ---
 
 ## はじめに
