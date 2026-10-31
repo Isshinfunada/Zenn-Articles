@@ -5,7 +5,6 @@ type: "idea"
 topics:
   - "isucon"
   - "claudecode"
-  - "postgresql"
   - "パフォーマンスチューニング"
 published: false
 ---
